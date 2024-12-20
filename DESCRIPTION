@@ -1,10 +1,9 @@
 Package: pervasive
 Title: Pervasiveness Functions For Correlational Data
 Version: 0.0.0.9000
-Authors@R: 
-    person("Denis", "Lajoie", , "denis.lajoie@umoncton.ca", role = c("aut", "cre"))
+Author: Denis Lajoie
 Description: This package provides functions for the analysis of pervasiveness of effects in correlational data.
-License: usethis::use_mit_license()
+License: MIT
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
