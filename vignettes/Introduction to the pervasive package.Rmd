@@ -29,7 +29,7 @@ This vignette will walk you through examples for the pervasive functions using d
 #install.packages("pervasive")
 
 #> Or install the development version from GitHub
-devtools::install_github("yourusername/pervasive")
+devtools::install_github("dlajoiemoncton/pervasive")
 
 library(pervasive)
 
